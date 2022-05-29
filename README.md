@@ -1,2 +1,2 @@
 # -Time2Date---Spacetime--
-A Windows desktop application to change GPS from integer (or hex) to month/day/year hour:minutes:date format and vice versa.
+Time to Date is a program to convert from GPS time (expressed in either integer or hex) to a month/day/year, hour, minute, second.   This program does not automatically adjust for leap seconds, however the offset field could be used for that purpose.   If you want to find UTC in 2022,  you can enter -18 in the offset field and perform a num to date conversion.    The program will also convert GPS time expressed in month/day/year, hour, minute, second) back to integer and hex.
